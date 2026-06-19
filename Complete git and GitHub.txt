@@ -1,0 +1,16 @@
+Complete git and GitHub 
+
+Git
+it is a tool or software.
+track the change in code.
+work:
+	- to track the history of code in project.
+	- collaborate with team in a project.
+add then commit	
+
+GitHub 
+
+it is a website used to store and manage their code.
+we upload the code in the form of folder(repository).
+
+commit 
